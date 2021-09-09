@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MovieSpot/static/css/main.a2e6a2f3.chunk.css",
+    "main.js": "/MovieSpot/static/js/main.2a8de0b8.chunk.js",
+    "main.js.map": "/MovieSpot/static/js/main.2a8de0b8.chunk.js.map",
+    "runtime-main.js": "/MovieSpot/static/js/runtime-main.37b9c286.js",
+    "runtime-main.js.map": "/MovieSpot/static/js/runtime-main.37b9c286.js.map",
+    "static/js/2.0bbe5724.chunk.js": "/MovieSpot/static/js/2.0bbe5724.chunk.js",
+    "static/js/2.0bbe5724.chunk.js.map": "/MovieSpot/static/js/2.0bbe5724.chunk.js.map",
+    "static/js/3.a59a4d6c.chunk.js": "/MovieSpot/static/js/3.a59a4d6c.chunk.js",
+    "static/js/3.a59a4d6c.chunk.js.map": "/MovieSpot/static/js/3.a59a4d6c.chunk.js.map",
+    "index.html": "/MovieSpot/index.html",
+    "static/css/main.a2e6a2f3.chunk.css.map": "/MovieSpot/static/css/main.a2e6a2f3.chunk.css.map",
+    "static/js/2.0bbe5724.chunk.js.LICENSE.txt": "/MovieSpot/static/js/2.0bbe5724.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37b9c286.js",
+    "static/js/2.0bbe5724.chunk.js",
+    "static/css/main.a2e6a2f3.chunk.css",
+    "static/js/main.2a8de0b8.chunk.js"
+  ]
+}
